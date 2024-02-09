@@ -1,0 +1,31 @@
+# Videos
+
+## Interacting with Objects in VR
+
+- [Introduction to Objects Interaction | Part 1](https://d3c33hcgiwev3.cloudfront.net/6ZUeAKFXEeePKQoORmqCCA.processed/full/720p/index.mp4?Expires=1707523200&Signature=O371NZPA~A-d112-6WMiGSONZ7uLKBLdqrq6csBtftQUbfElUqYV-qDBDj5IknjGPDfC3a-IdaQkHkluIW03fobT45eTAO6ATvxsSHtSkcouj8uFt7viCtOhRVcBoHIZwWDyIR9bXjIWyCt6jHYzjOhVhMt7dq81kcBxYzUpzpM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Introduction to Objects Interaction | Part 2](https://d3c33hcgiwev3.cloudfront.net/iwWrEprXEeemPQ7y7PkbiA.processed/full/720p/index.mp4?Expires=1707523200&Signature=ElSmbWp0exIj9yg4bFRksqKZIr65omlPlByvfPqA7qojCha36lVXCRHLFSKqTHO-BzF~BTXN4ZRVG2ANUjDzbYj2-iSluNfq-v80OY-i6lxG1VUAUNi~YJu9R2DkSjUqrxoPXzrrxqT3qA4~V~6zHMtiAKEOPX7QWs5itPcMrBo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Object Interaction Within Reach](https://d3c33hcgiwev3.cloudfront.net/iwWqpprXEeedWRLokafKRg.processed/full/720p/index.mp4?Expires=1707523200&Signature=ADqmbv6DHzG5aB-OycUMVzhwQiXA20FZFNhIL0AiiIWJijDKKeYRpOsOgIiEoKfr4wLtFO72Zj33HsfzqtRNdJb97jGvSz8pil27brv3q6ulurJq-oeUvEdfNMLSl9qNrDS0jbg0nia1qT8JKg044Pfh~BG78ksRUoPTfLp861U_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Hyper-Natural Interaction](https://d3c33hcgiwev3.cloudfront.net/iwZHU5rXEeemPQ7y7PkbiA.processed/full/720p/index.mp4?Expires=1707523200&Signature=XPC4avGe4sOfpeDl6PkK3v-RudDP6QUdHDUZcQ6zQTKtVmjsK3IXsHPA~LJoW4Xb9H4cuH7bEsp40KlJrcLEURRhAUarPTnHFso9OUllkPRsj5v4mlJjgA~c45HHN7XvYgghdvMEREa5uIKwKBoNjoFrWgCeGJ5vL3L1CmclFw0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Magic Interaction](https://d3c33hcgiwev3.cloudfront.net/wgUtUJrVEeedWRLokafKRg.processed/full/720p/index.mp4?Expires=1707523200&Signature=BJgpOujOJ~eNXUap~5QN0LqT0~Pzinr4xOgjsjxs2U3WTnaTuFd4afTLwT6ptcJI4xt7laeMnwORKpdWE9eK68fhQfFXewnt5dFr5-NSdJAhyrYeuxx~5X6j6Q8ps9H8AkUnxHfbbc905EFR-9oZEXn5wVN~2sTirpoZ4IdIbUI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Evaluation Metrics](https://d3c33hcgiwev3.cloudfront.net/wgSRD5rVEeedWRLokafKRg.processed/full/720p/index.mp4?Expires=1707523200&Signature=anjFL1SsdKay7d-~IRW2ZnJ9491hnAkhECP5PMlirOw5Cr2BiqnfFZlr5hMk9FtVMUBatng31jDfR9~tZ63Uy0vzRD-IDt7b9R1rbulefg5pchy5CaUA5qQkOfOCPayNiXphMf6OxhGKyqa04dhWOvVpTPFrDWJb4uKhVKjufb8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+## Physics Interaction
+
+- [Introduction to Physics Interaction](https://d3c33hcgiwev3.cloudfront.net/jDR73JrZEeedWRLokafKRg.processed/full/720p/index.mp4?Expires=1707523200&Signature=iGv~NKXliaFgRGQ0BcAGmut4B7kYXEf6LxB4lpvVUbzHrPSkfTw2HIaGXQASU3GHjrTHZDVy5tlNlgKo8hLQ0RPyMJ6qnsMn92XnmLSd8XUZPmnAFc9BV5T9hcEqwblhSMdmglozgRQ663lZlzyp0m9KTLJ0PDBbLtp2w4NeuHo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Physics Objects](https://d3c33hcgiwev3.cloudfront.net/wgWiD5rVEeemPQ7y7PkbiA.processed/full/720p/index.mp4?Expires=1707523200&Signature=QTJwRbiIMJPyXDXpIkQWDYfVWVhXy~LTQJKKRY924apmgtyrwNilD2ZHvbu6yPslTTjVLlgjm8WEwTDRrcR0VBR1D9Lo6DEcUtv6PVVV6C2SO~Kif92hry8PK14Zp6yldpsW-ast1OaQM554-KDgp~t8GVm1tm3fg10h7mP0G5c_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Physics Objects in Unity](https://d3c33hcgiwev3.cloudfront.net/CXJnE5ySEeedNBIKgiNFNg.processed/full/720p/index.mp4?Expires=1707523200&Signature=jvawBLphQM39soj3S--heEB~5QZgbZQ0XV3tFIOxxQhxBcpjgVg9mvfUBLpKS~Pa2~NlFMJuFWe2JPsjQ05EyU4nX6inDgPcwekqKqQ7naAOnlHHsO8vo3tIDxTbto6uZ8U34iBxI4SUr8mRnmQvonC8d1~vf1WtIX1AIqKF4KI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Physics in VR](https://d3c33hcgiwev3.cloudfront.net/wgco7JrVEeeHrwpWBTEPxg.processed/full/720p/index.mp4?Expires=1707523200&Signature=jE8Xm-qVweLdSFbgFpYMiixZFROMs5gPTd46SKS7iq5h3xHnMhqWXeOLzOAOUWX7wgjwF1g2sFBwmI029EFqWvbyOl1Uq9KsOB-8x34ubapehQyaAVyVk-0-P07Kj8~A8kBXMSM3itikz2kiDYz4yFFVzuQLptIBwRMtcrcUaPY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Physics Interaction in Unity with NewtonVR](https://d3c33hcgiwev3.cloudfront.net/jDW0y5rZEeemPQ7y7PkbiA.processed/full/720p/index.mp4?Expires=1707523200&Signature=JTdn4-pklMa47TaSFyX8ABEfm~oACamtl35LinvfP-02rN3sjxyoQf568N73ZKlrwxLjOFIr59pBHuP0bJRLnLFRk2zXwRWPSFaJFnDDOqwwcTG9WRLiT8Ya2UG3-CkAUdTtTvaf2tAOSlH7GLkO2Y8iloJMkQTc6DRb1dQHJHA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [State Machines](https://d3c33hcgiwev3.cloudfront.net/wgUGC5rVEeeHrwpWBTEPxg.processed/full/720p/index.mp4?Expires=1707523200&Signature=Csu9RLpK5fxBHD7JZIDo2rSUjUD2yug4cobdUzL8vg5Uu9bjUfVGsD0kT2Q5tSD-KhnlXlhas2rQdpOTeTZs8IZFIkT7IQUI9nQMJzBDmHYYbyHQGq9-vw0HMtaaEcX-lOceJ6V6QoItpEREZp35wT1YwD982A~TseP9eMv2X5Q_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [State Machine Interactions in Unity](https://d3c33hcgiwev3.cloudfront.net/wgdQMZrVEeedWRLokafKRg.processed/full/720p/index.mp4?Expires=1707523200&Signature=eoYvu1hxymlPsbTGhKTrsX3YBbVKYnFcZXbBozhZtU6OSLewIAVLILZZHNSCj6BbDMoSmffGtYWRQffFLvXltjppeNqUMBfVUNOSe9H8q4PBVNLc5IPd96~ckp45fltIRW2Thwi-eFeQsAi7CUE7HrL1~XoZ7FdXTNqwPibYS8o_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)

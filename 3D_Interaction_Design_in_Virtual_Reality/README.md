@@ -1,0 +1,5 @@
+# 3D Interaction Design in Virtual Reality
+
+## What you'll learn
+
+This course will teach you about one of the most important aspects of VR, how you interact with a VR world. Virtual Reality is completely different from an on screen app or game. You are completely immersed in a VR world, so it doesn't make sense to interact only through buttons or menus. You will get the most out of VR if you can interact with the world just as you would with the real world: with your natural body movements. You will learn about the basic concepts and technologies of VR Interaction. You will then get hands on, learning about how to move around in VR and how to interact with the objects in your world. The course will finish with some advice from experts on VR interaction design and you will do a project where you will get real experience of developing VR Interaction.

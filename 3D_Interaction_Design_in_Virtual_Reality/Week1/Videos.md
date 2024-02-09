@@ -1,0 +1,29 @@
+# Videos
+
+## Understanding VR Interaction
+
+- [Welcome to 3D Interaction Design in Virtual Reality](https://d3c33hcgiwev3.cloudfront.net/BN2IgZYbEeerYQ6e0AAoDg.processed/full/720p/index.mp4?Expires=1707523200&Signature=c9C-kbVy67tU7RkvmoUl1qC3FbK82TqdhHQvSfXPMS-TGl750XBEcy0qKzvz0E03Mlr3LkTq9ju-hpD7ZtuIz2Hfb4~sOR9ocz9Q4xWOHSkm6ueYmFK3hTzKcP4KFX83~jjCfN70Pz~fk4jDiAyu1n1C7Hpe0MBKhC-wifjmIzw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Natural Interaction](https://d3c33hcgiwev3.cloudfront.net/mYVoVJO1EeeqggrKNlm_Ig.processed/full/720p/index.mp4?Expires=1707523200&Signature=J4agvSMBfnkgH8-b3LvcVC6qnJygGSiUqc3NbiA4lIH67wm2GuMP81Zy7GHjMYEE2SpQgFOIRo8iNHwSiwlBAa0fVzWklj4BpAx~BcRTBqT6Cx9fMDmw39x6wNYJthwjwPp22wwy21OzOWemumbebxL7CRkdXxDiH6VCwykIjwo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Magic Interaction](https://d3c33hcgiwev3.cloudfront.net/mYUZl5O1Eee1tBI2cdRURg.processed/full/720p/index.mp4?Expires=1707523200&Signature=SPj5tQ0GOCbi4H-bfUVqHw0XYJo955ZrYDlCpZx6EFVDujgow9vmr4Fl~sMzoGCRhvQWw9UH90prbggmhW91F9PuTYrNuTE-13-N29m0qaWXYXG11XRG0Ei7OG6t9MrEQQzH2g~Szw4h4IKxK3DK4sHHfksZSL61f2n7wdBRB0c_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Active and Passive Interaction](https://d3c33hcgiwev3.cloudfront.net/mYMd0JO1EeeaCBKsFx-ifg.processed/full/720p/index.mp4?Expires=1707523200&Signature=UabvpEVLbwYAOGSekxThEW8ROAAeAdsY4vp-BJNewJRnvp5he~KfHQ0KzwvRrlVBKWD7KLGA1OZX6G7ulYhO4X8fjO5~-TEqwRTNnMgfbFRBmvlHelIYHL5j2NlkWqnFjYJCc~G3CPdwypI70kJUD1Xe~mkSQ376lNp~J0dD9qI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Affordances](https://d3c33hcgiwev3.cloudfront.net/D0jvCprcEeedWRLokafKRg.processed/full/720p/index.mp4?Expires=1707523200&Signature=bT8jzfjyvxwDWFDO1iONtogTmxxAJpxQN4daxGlf8VQgAnwZPGXmEOOXu9DOMZgmFjQY0~UexYiEdCvL6Ef6wbGyGWvODJF5CWnyyuT0XJG1XNUhBVIEtwTV6kYH~luDOUaprm9y4i7cJutUTZFMjDDSQwPX2a9xDzZMAz0Bekc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [VR Interaction Theory](https://d3c33hcgiwev3.cloudfront.net/mYYrTZO1Eeeyew4xv3xi6A.processed/full/720p/index.mp4?Expires=1707523200&Signature=Y68HRIkDpYdkAULlN3KGJQjFBaaFsqMe5taN-XqgKSy4gtQJicS1nC7W9zOqga8KD8MQee4rfL2H-BdZ5n~a-dN~-RwjeUumwZYzXWG6sE7Xw7ysizbvJJtJOIsggWulCcvkbeMHz1ZW4QJqY90TGMqZ0TUunW-bPKeF-u-OdS8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+## User Input
+
+- [Standard HMDs](https://d3c33hcgiwev3.cloudfront.net/SFD6nKFYEeePKQoORmqCCA.processed/full/720p/index.mp4?Expires=1707523200&Signature=i~tCAsV7FAcEeqMbyZijaMtVlXcOSgq9u9iykV0XW-6o08QyThw1cf-8uMCA1xn9lSqXt3E3b2Jf1TAE7OZ~wiaxAoyDk6tblqKa8hRyR0boLqIpOsQ5ji6i4K0V6X9n1-BR5qHsy2Oa6eB0jwpS~1UX9b~0oCamUX8XM7q6L7Q_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Other Devices](https://d3c33hcgiwev3.cloudfront.net/mYXdLJO1Eeeyew4xv3xi6A.processed/full/720p/index.mp4?Expires=1707523200&Signature=Kwpn59Ok3Ux-EwEt9X3sm28C3ej8mto-GV2Ax7dQdiLntmXd0s-XYvsHCrdRWvSKxbjIPjA5zLa4-XIrPbuXxMPTHJMkrC2LGDUysTIQxXK5PBgOohTtbtyvtc3yaA0l12784F1dW0LHwSGfjPU2QPFGipjWe17NgXbKQH2bSxY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+## Introduction to the Project
+
+- [Introduction to the Project](https://d3c33hcgiwev3.cloudfront.net/mYVnwZO1EeeaCBKsFx-ifg.processed/full/720p/index.mp4?Expires=1707523200&Signature=X37FpO5O2UsiqdLyCl4fEk5lokfnmROIJTD7whXIfhrNm4Bs2MRDQaqkOrGd701cfdJpjd3aIZfVYltPDzd6b5NgqupSuOay2qMqTrrCfA2VO25x9LD~aKNDy1Wyh4SyVVaXd0EY0OJWFC7TeZYV924hyJb6rvr17DBTjh-51z8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Unity Examples](https://d3c33hcgiwev3.cloudfront.net/Fk533dw4EeethgrDP6Gp6A.processed/full/720p/index.mp4?Expires=1707523200&Signature=BeAGS6oOgMzsRuOLgJiuMNAM7jGoZ5ZZRUuGDWUKP6ckmhG~ZjfcI1aLhPLCtPZpCxoLNbZAVfTQcr5RwTLKtaqTxD1CbgP5reDKy7pa~W5qDbJOFX0Kqa~kCiwTFtyGC1n-TfF8zA4wO7fM1qyblgZTK2Vzn50nddZGsqIcyI0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Interaction Scripts](https://d3c33hcgiwev3.cloudfront.net/5lMlhNw3EeePjhLD_9DLQg.processed/full/720p/index.mp4?Expires=1707523200&Signature=NYo218kWVYTo8wxMQzd797Cuu2wgm1ZQ163zpEP6ksigk66kGmauB~1QDEFfsg5BL2WJFC4XDbij3hUY5mUtaD3HGRanb9v2aBCDv93u3EiCoDChIXmMpOKUO6jbG9Jhp0D8aXNmKqY1hroA1SCe~dJQDl~j3fv3VvLJF-dWbMs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
